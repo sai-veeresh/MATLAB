@@ -12,6 +12,6 @@ for i=1:length(lx)
     i=i+1;
 end
 %%
-contourf(lx,t)
+plot(lx,t)
 grid on
 axis on
